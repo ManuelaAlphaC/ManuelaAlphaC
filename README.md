@@ -4,7 +4,7 @@
 
 [Twitter](https://twitter.com/ManuelaCuci "Twitter") | [Portfolio ](https://manuelacuci.podia.com/ "Portfolio") 
 
-- 👩🏻‍💻 I’m a Solidity Engineer 
+- 👩🏻‍💻 I’m a Smart Contract Engineer 
 - I also like writing programs using languages like 🐍 <b>Python</b> and 🂠 <b>SQL</b>
 - I like to create website or application prototypes using ✨ <b>[Figma](https://www.figma.com"Figma")</b>
 
