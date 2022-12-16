@@ -2,7 +2,7 @@
 
 
 
-[Twitter](https://twitter.com/ManuelaCuci "Twitter") | [Portfolio ](https://manuelacuci.podia.com/ "Portfolio") 
+[Twitter](https://twitter.com/ManuelaCuci "Twitter") | [Portfolio ](https://manuelacuci.netlify.app/ "Portfolio") 
 
 - 👩🏻‍💻 I’m a Smart Contract Engineer 
 - I also like writing programs using languages like 🐍 <b>Python</b> and 🂠 <b>SQL</b>
